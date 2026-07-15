@@ -29,8 +29,8 @@ public class HelloController {
 
     // ── ข้อมูลนักศึกษา ── แก้ไขตรงนี้ ──────────────────────────────────────
     private static final String NAME    = "อาทิตยา โคตรธิสาร";     // TODO: ใส่ชื่อจริง
-    private static final String ID      = "6430212592";               // TODO: ใส่รหัสนักศึกษา
-    private static final String SECTION = "1";                  // TODO: ใส่เลข Section
+    private static final String ID      = "643021259-2";               // TODO: ใส่รหัสนักศึกษา
+    private static final String SECTION = "1SC";                  // TODO: ใส่เลข Section
     // ─────────────────────────────────────────────────────────────────────────
 
     /**
