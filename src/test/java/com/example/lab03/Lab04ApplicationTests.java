@@ -1,4 +1,4 @@
-package com.example.lab03;
+package com.example.lab04.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * รันด้วย: mvn test
  */
 @SpringBootTest
-class Lab03ApplicationTests {
+class Lab04ApplicationTests {
 
     @Test
     void contextLoads() {
